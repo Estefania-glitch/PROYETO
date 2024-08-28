@@ -1,0 +1,46 @@
+*{
+    background: #FFA07A;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.logo{
+    padding-top: 10px;
+    margin-left: 10px;
+    width: 15%;
+}
+
+main{
+    display: flex;
+    margin-bottom: 80;
+    margin-left: 80;
+}
+.text-area {
+    border: none;
+    color:blue
+    margin-top: 90px;
+    text-transform: lowercase;
+}
+
+::placeholder {color: black; }
+  .text-area:focus {
+    outline: none;
+  }
+.mensaje{
+    background:#DE3163;
+    background-image: url("/Muñeco.png");
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 24px;
+    color:aqua
+    margin-left 98px;
+    margin-top: 20px;
+    padding: left 20px;
+    position: fixed;
+ 
+}
+
+
+     
